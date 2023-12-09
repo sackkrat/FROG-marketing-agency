@@ -9909,7 +9909,7 @@ html {
     
     @font-face {
         font-family: 'Gropled';
-        src: url('static/fonts/Gropled-Bold.otf') format('opentype'); /* Fallback for older browsers */
+        src: url('fonts/Gropled-Bold.woff') format('woff'), url('fonts/Gropled-Bold.otf') format('opentype');
         font-weight: normal;
         font-style: normal;
     }
